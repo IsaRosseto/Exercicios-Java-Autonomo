@@ -4,7 +4,7 @@
  *    - Leia um valor em dólares
  *    - Converta esse valor para Real
  *    - Mostre o resultado
- *
+ 
  *************************************************************************/
  
  import java.util.Scanner;
