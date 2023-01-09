@@ -26,5 +26,3 @@ public class Exercicio{
 	}
 
 }
-Footer
-© 2023 GitHub, Inc.
