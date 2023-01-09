@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-public class Exercicio{
+public class Celsius Fahrenheit{
 
 	public static void main(String[] args) {
 
