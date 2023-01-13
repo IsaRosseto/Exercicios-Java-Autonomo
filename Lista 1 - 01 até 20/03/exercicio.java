@@ -1,5 +1,6 @@
 /*************************************************************************
- *  1) Faça um programa que:
+
+ *     Faça um programa que:
  *    - Leia a cotação do dólar
  *    - Leia um valor em dólares
  *    - Converta esse valor para Real
