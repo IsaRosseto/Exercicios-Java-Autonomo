@@ -11,7 +11,7 @@
 *************************************************************************/
 import java.util.Scanner;
 
-public class exercicio {
+public class Exercicio {
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
 		System.out.print("Programa para pagamento de comissão de vendedores de peças.\n\n"); //Why so specific?!
