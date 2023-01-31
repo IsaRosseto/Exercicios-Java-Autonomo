@@ -24,4 +24,4 @@ public class ExercicioPatinhos {
 
 }
 
-/*Git
+/*GitHub
