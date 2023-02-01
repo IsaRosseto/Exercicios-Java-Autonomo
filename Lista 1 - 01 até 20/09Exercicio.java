@@ -1,5 +1,5 @@
 /*******************************************************************************
-* 16) Escreva um programa que leia dois números e exiba mensagem informando o
+* - Escreva um programa que leia dois números e exiba mensagem informando o
 * valor do maior número e o valor do menor número. Se os dois números forem
 * iguais, o programa deve exibir mensagem informando este fato.
 *******************************************************************************/
